@@ -1,0 +1,17 @@
+{
+  "name": "screenshots",
+  "version": "0.0.1",
+  "description": "CLI screenshots ",
+  "main": "app.js",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "puppeteer": "^0.10.2",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "am",
+  "license": "ISC"
+}
